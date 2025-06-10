@@ -1,4 +1,4 @@
-app = "google-trends-api"
+app = "google-trends-api-steven"
 primary_region = "gru"
 
 [build]
